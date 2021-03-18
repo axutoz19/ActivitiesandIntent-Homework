@@ -1,0 +1,6 @@
+com/example/CodingChallenges/SecondActivity.java
+ com.example.CodingChallenges.SecondActivity
+com/example/CodingChallenges/MainActivity.java
+ com.example.CodingChallenges.MainActivity
+com/example/CodingChallenges/BuildConfig.java
+ com.example.CodingChallenges.BuildConfig
