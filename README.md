@@ -1,0 +1,3 @@
+# ActivitiesandIntent-Homework
+
+![](ActivitiesandintentsHW.gif)
